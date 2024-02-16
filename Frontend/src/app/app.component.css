@@ -1,0 +1,11 @@
+.nav
+{
+  
+   
+    float:right;
+}
+ul li 
+{
+    display:inline-flex;
+    padding:10px;
+}
